@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 1 (720p)
+https://webtvstream.bhtelecom.ba/hrt1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 2 (720p)
+https://webtvstream.bhtelecom.ba/hrt2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 3 (720p)
+https://webtvstream.bhtelecom.ba/hrt3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",TV Nova (720p)
+https://stream.agatin.hr:3727/live/tvnovalive.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 RS
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Undefined",Pink
+https://live.rednet.rs/providus/pink1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",RTS 1 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",RTS 2 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts2.m3u8?checkedby:iptvcat.com
