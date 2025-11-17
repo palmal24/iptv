@@ -45,3 +45,5 @@ https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720
 https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
 #EXTINF:0 tvg-logo="", CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:0 tvg-logo="", RTS 1
+https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
