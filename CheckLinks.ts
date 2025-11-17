@@ -2,6 +2,8 @@ import fetch from 'node-fetch';
 import * as fs from 'fs';
 
 const linksFile = fs.readFileSync("list1.m3u8", "utf-8").split("\n");
+const isProd = String(process.env.IS_PROD).toLowerCase() === "true";
+
 let urls: string[] = [];
 let invalidUrls: string[] = [];
 
@@ -37,8 +39,10 @@ async function checkLinks() {
         .filter(line => line.startsWith("http"))
         .map(line => line.trim());
 
-    for (const streamUrl of urls) {
-        await fetchUrl(streamUrl, 6000);
+    if (!isProd) {
+        for (const streamUrl of urls) {
+            await fetchUrl(streamUrl, 6000);
+        }
     }
 
     if (invalidUrls.length > 0) {
@@ -49,8 +53,9 @@ async function checkLinks() {
         // await new Promise(resolve => setTimeout(resolve, 5000));
         console.error("Exiting...");
         process.exit(1);
+    } else {
+        console.log("Script finished");
     }
-    console.log("Script finished");
 }
 
 checkLinks();
