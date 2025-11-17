@@ -1,0 +1,23 @@
+name: Update List
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Compile TypeScript
+        run: npx tsc CheckLinks.ts
+
+      - name: Run link checker
+        run: node CheckLinks.js
