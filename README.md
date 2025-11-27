@@ -1,2 +1,2 @@
 # iptv
-list1 - v6
+list1 - v7
