@@ -13,8 +13,12 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 #EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:-1 tvg-id="DiadoraTV.hr@SD",Diadora TV
+https://diadoratv.stream/live/diadora/playlist.m3u8
 #EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+https://stream.luci.xyz/hls/LTV.m3u8
+#EXTINF:-1 tvg-id="OTV.hr@SD",OTV (720p) [Not 24/7]
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",12TV Alicante (720p)
 https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
 #EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",24 Horas (1080p)
@@ -47,3 +51,5 @@ https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=nova
 https://stream.cmctv.hr:49998/cmc/live.m3u8
 #EXTINF:0 tvg-logo="", RTS 1
 https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
+#EXTINF:0 tvg-logo="", Arena Sport 2 Premium
+https://a112.azplay21.me/hls/streama243697/index.m3u8?cst=f3370a76d04f814d12cda3babef6c0a2
