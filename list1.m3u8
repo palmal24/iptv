@@ -1,55 +1,37 @@
 #EXTM3U
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 1 HD (1080p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",HRT 1 HD (1080p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 2 HD (1080p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",HRT 2 HD (1080p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 3 HD (720p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",HRT 3 HD (720p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",HRT 4 HD (720p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",HRT 4 HD (720p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",RTL (1080p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",RTL (1080p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",RTL 2 (1080p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",RTL 2 (1080p)
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",TV Jadran (720p) [Not 24/7]
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",TV Jadran (720p) [Not 24/7]
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",DAZN
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="DiadoraTV.hr@SD",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Undefined",TV Nova (720p)
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",TV Nova (720p)
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",TV Nova2
 https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="OTV.hr@SD",OTV (720p) [Not 24/7]
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",12TV Alicante (720p)
-https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",24 Horas (1080p)
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="SPAIN",8madrid TV (720p)
-http://185.189.225.150:85/8madrid/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="SPAIN",Antena 3 (720p)
-http://185.189.225.150:85/Antena3HD/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="SPAIN",Nova (Spain) (576p)
-http://185.189.225.150:85/nova/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/X3eIdVf.png" group-title="SPAIN",PTV Almería (1080p)
-https://streamer.zapitv.com/ptv_almeria/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",PTV Granada (720p)
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Channels",PTV Granada (720p)
 https://streamer.zapitv.com/PTV-granada/index.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="SPAIN",Popular TV Murcia (1080p) [Not 24/7]
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Channels",Popular TV Murcia (1080p) [Not 24/7]
 https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
-#EXTINF:0 tvg-country="HR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 HR
+#EXTINF:0 tvg-country="HR" tvg-logo="" group-title="Channels",N1 HR
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:0 tvg-country="BH" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 BH
+#EXTINF:0 tvg-country="BH" tvg-logo="" group-title="Channels",N1 BH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8
-#EXTINF:0 tvg-country="RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 RS
+#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Channels",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Undefined",Pink
-https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/HBPnUD5.png", Kurir (net)
+#EXTINF:0 tvg-logo="https://i.imgur.com/HBPnUD5.png", group-title="Channels", Kurir (net)
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
-#EXTINF:0 tvg-logo="", Nova S (net)
-https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
-#EXTINF:0 tvg-logo="", CMC HR
+#EXTINF:0 tvg-logo="", group-title="Channels", CMC HR
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:0 tvg-logo="", RTS 1
-https://webtvstream.bhtelecom.ba/hls19/rts1.m3u8
-#EXTINF:0 tvg-logo="", Arena Sport 2 Premium
-https://a112.azplay21.me/hls/streama243697/index.m3u8?cst=f3370a76d04f814d12cda3babef6c0a2
